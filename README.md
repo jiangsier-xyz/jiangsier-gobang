@@ -1,5 +1,5 @@
 # jiangsier-gobang
-English | [中文版](https://github.com/jiangsier-xyz/jiangsier-gobang/blob/main/README.zh-Cn.md)
+English | [中文版](https://github.com/jiangsier-xyz/jiangsier-gobang/blob/main/README.zh-CN.md)
 
 ## Introduction
 jiangsier-gobang is a reinforcement-learning-based AI Gomoku game. It supports multiple AI players (each using different model structures). These AI players can learn through self-play or playing against each other.
